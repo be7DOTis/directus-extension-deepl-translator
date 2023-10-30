@@ -14,7 +14,7 @@ If given longer, I'd provide more options exposed by the API such as `formality`
 
 ## Set Up Instructions
 
-1. Sign up for a (DeepL Free Account)[https://www.deepl.com/translator] and get an authentication key from your account settings.
+1. Sign up for a [DeepL Free Account](https://www.deepl.com/translator) and get an authentication key from your account settings.
 2. Add a `DEEPL_KEY` environment variable to your Directus app.
 3. Create a new folder in your extensions folder called `directus-extension-deepl`.
 4. Add the content of this folder into the one you just created.
@@ -23,7 +23,7 @@ If given longer, I'd provide more options exposed by the API such as `formality`
 ## Screenshots
 
 ![](./deepl-setup.jpeg)
-![](./deepl-panel.jpeg)
+![](./deepl-panel.png)
 
 ## Collaborators
 
